@@ -1,0 +1,91 @@
+body{ font-family: 'Inter', sans-serif;
+  background-color: white;
+
+}
+
+.navigation{
+  display: inline-block;
+  height: 250px;
+  max-height: 500px;
+}
+
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+  font-size: medium;
+  padding: 15px;
+  
+
+}
+.logo{
+  margin: 0 auto;
+  margin-left: 18px;
+
+}
+.heroimg{
+  height: 600px;
+  padding: 40px;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:bottom;
+  
+}
+
+footer{
+  background-color: white;
+  padding: 5%;
+  
+}
+.contact{
+  display: inline-block;
+  height: 250px;
+  max-height: 500px;
+  font-size: medium;
+}
+
+
+.content{
+  padding: 40px;
+  background-color:white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:bottom;
+}
+
+
+p{
+  margin-left: 175px;
+  width: 800px;
+}
+.intro{
+  color: #ec0e8b;
+}
+button{
+  border: none;
+  background-color: unset;
+  font-size: 12pt;
+  font-weight: 700;
+  margin-left: 175px;
+  margin-top: 50px;
+  padding: 3%;
+}
+nav {
+  height: 50px;
+}
+.textcontainer{
+  width: 60%;
+  float: left;
+}
+.Linda{
+  float: right;
+  width: 20%;
+  padding: 40px;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:bottom;
+  margin-right: 150px;
+
+
+}
